@@ -1,2 +1,2 @@
-# postMethod
+# fetch
 Created with CodeSandbox
